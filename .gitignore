@@ -1,0 +1,19 @@
+# CMake build output
+build/
+cmake-build-*/
+
+# Compiled objects and executables
+*.o
+*.a
+*.so
+*.out
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE settings
+.vscode/
+.idea/
