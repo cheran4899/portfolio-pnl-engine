@@ -69,12 +69,6 @@ The calculations use average-cost accounting and market prices supplied to the a
 - Validating market prices before calculating valuations.
 - Setting up a multi-file C++ project with CMake.
 
-## What's next?
-
-Next, I want to build a trade ledger that stores transaction history and allows the portfolio to be reconstructed by replaying trades.
-
-This should help me understand how these concepts fit into larger financial systems.
-
 ---
 
 This is a learning project, and I'll keep adding features as I progress with C++ and quantitative development.
