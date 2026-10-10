@@ -1,4 +1,4 @@
-# Portfolio & P&L Engine
+# Portfolio & PnL Engine
 
 My second C++ project, built as part of my journey towards learning C++ for quantitative finance and trading systems.
 
